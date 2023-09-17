@@ -1,0 +1,12 @@
+# JWT (JSON Web Tokens) Example:
+
+Ce repository contient un exemple de mise en place d'authentification JWT (JSON Web Tokens) avec Node.js et Express.
+L'objectif est de fournir une base compréhensible pour ceux qui souhaitent implémenter JWT dans leurs applications.
+
+ La commande pour cloner le repository est : 
+ `git clone https://github.com/votre-utilisateur/votre-repository.git`
+
+ Pensez à installer les dépendances ```npm install```
+ Créez un fichier .env à la racine du projet et ajoutez votre clé secrète.
+ **JWT_SECRET_KEY=ExampleDeCléSecrete**
+ 
